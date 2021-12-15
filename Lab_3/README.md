@@ -1,0 +1,1 @@
+In this laboratory you will write a BASH shell script that performs basic UNIX file management functions for DOS/Windows users not familiar with UNIX. The script will take DOS/Windows commands as the first parameter and perform the equivalent UNIX command
